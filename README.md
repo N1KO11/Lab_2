@@ -1,1 +1,6 @@
-# Lab_2
+# ***calculator***
+## 4 operations are available:
++ Addition [+]
++ Multiplication [*]
++ Division [/]
++ Subtraction [-]
